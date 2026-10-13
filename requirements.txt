@@ -1,0 +1,21 @@
+# Core scientific stack (Summer School: NumPy / Matplotlib / SciPy / SymPy / scikit-learn)
+numpy
+scipy
+sympy
+matplotlib
+pandas
+scikit-learn
+
+# Notebooks
+jupyterlab
+ipykernel
+
+# Testing and code quality (Bootcamp BP6 / BP7)
+pytest
+pytest-cov
+black
+isort
+flake8
+mypy
+bandit
+line_profiler
