@@ -1,0 +1,27 @@
+{
+  "name": "angular-like-button",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Codility Exercise 8 - Angular Like Button",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "dependencies": {
+    "@angular/common": "~20.3.0",
+    "@angular/compiler": "~20.3.0",
+    "@angular/core": "~20.3.0",
+    "@angular/platform-browser": "~20.3.0",
+    "@angular/platform-browser-dynamic": "~20.3.0",
+    "rxjs": "~7.8.0",
+    "tslib": "^2.6.0",
+    "zone.js": "~0.15.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.0.0",
+    "jest-environment-jsdom": "^30.0.0",
+    "jest-preset-angular": "^15.0.0",
+    "typescript": "~5.8.0"
+  }
+}

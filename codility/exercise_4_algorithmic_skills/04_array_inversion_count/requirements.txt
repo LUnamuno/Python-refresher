@@ -1,0 +1,4 @@
+# Mini-project: ArrayInversionCount (pure Python solution, no scientific stack needed)
+jupyterlab
+ipykernel
+pytest

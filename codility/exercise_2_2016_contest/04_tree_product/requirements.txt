@@ -1,0 +1,5 @@
+# Mini-project: TreeProduct (pure Python solution plus NumPy)
+jupyterlab
+ipykernel
+numpy
+pytest

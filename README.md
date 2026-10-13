@@ -12,6 +12,15 @@ The material is organised in three layers:
 |--------|------------|---------------|
 | `notebooks/` | Executed Jupyter notebooks that summarise the sources with runnable examples and exercises. | Read, run, change the code, do the "Your turn" cells. |
 | `codility/` | Practice stubs (`practice_0X_*.py`) with tests (`test_practice_0X_*.py`) for the Codility tasks. | Implement the stubs until the tests pass. |
+| `codility/exercise_9_bit_ops/` | Three mini-projects (BinaryGap, CountConformingBitmasks, SparseBinaryDecomposition), each with `README.md`, `requirements.txt` and a solution notebook. | Read the README, then work through the notebook. |
+| `codility/exercise_1_2015_contest/` | Three mini-projects (LongestPassword, FloodDepth, SlalomSkiing), each with `README.md`, `requirements.txt` and a solution notebook. | Read the README, then work through the notebook. |
+| `codility/exercise_2_2016_contest/` | Four mini-projects (RectangleBuilderGreaterArea, DwarfsRafting, HilbertMaze, TreeProduct), each with `README.md`, `requirements.txt` and a solution notebook. | Read the README, then work through the notebook. |
+| `codility/exercise_3_2017_contest/` | Four mini-projects (TennisTournament, SocksLaundering, ArrayRecovery, DiamondsCount), each with `README.md`, `requirements.txt` and a solution notebook. | Read the README, then work through the notebook. |
+| `codility/exercise_4_algorithmic_skills/` | Six mini-projects (FirstUnique, StrSymmetryPoint, TreeHeight, ArrayInversionCount, DisappearingPairs, PolygonConcavityIndex), each with `README.md`, `requirements.txt` and a solution notebook. | Read the README, then work through the notebook. |
+| `codility/exercise_5_coding_skills/` | Three mini-projects (ParkingBill, ParityDegree, ThreeLetters), each with `README.md`, `requirements.txt` and a solution notebook. | Read the README, then work through the notebook. |
+| `codility/exercise_6_sql/` | Three SQL mini-projects (SqlSum, SqlEventsDelta, SqlWorldCup), each with `README.md`, `setup.sql`, `solution.sql`, `requirements.txt` and a notebook that runs the query on SQLite. | Read the README, write `solution.sql`, check it in the notebook. |
+| `codility/exercise_7_data_structures/` | Four mini-projects (ArrListLen, CountBoundedSlices, TreeLongestZigZag, CountriesCount), each with `README.md`, `requirements.txt` and a solution notebook. | Read the README, then work through the notebook. |
+| `codility/exercise_8_frontend/` | Two frontend mini-projects (Angular Like Button, ReactLikeButton) in TypeScript/JavaScript, each with `README.md`, `package.json`, the component and Jest tests. Needs Node.js. | Read the README, `npm install`, `npm test`. |
 | `projects/` | Six small, independent projects (starter module + tests + README). | Build one after the matching notebooks. |
 
 ## Setup (Windows / PowerShell)

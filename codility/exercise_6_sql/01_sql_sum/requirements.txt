@@ -1,0 +1,4 @@
+# Mini-project: SqlSum (SQL runs on Python's built-in sqlite3 module, nothing else needed)
+jupyterlab
+ipykernel
+pytest

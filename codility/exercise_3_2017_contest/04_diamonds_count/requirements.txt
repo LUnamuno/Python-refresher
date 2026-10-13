@@ -1,0 +1,4 @@
+# Mini-project: DiamondsCount (pure Python solution, no scientific stack needed)
+jupyterlab
+ipykernel
+pytest

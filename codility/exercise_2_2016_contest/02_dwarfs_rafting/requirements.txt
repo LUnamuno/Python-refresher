@@ -1,0 +1,4 @@
+# Mini-project: DwarfsRafting (pure Python solution, no scientific stack needed)
+jupyterlab
+ipykernel
+pytest

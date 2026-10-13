@@ -1,0 +1,4 @@
+# Mini-project: TreeLongestZigZag (pure Python solution, no scientific stack needed)
+jupyterlab
+ipykernel
+pytest

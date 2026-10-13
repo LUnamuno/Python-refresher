@@ -1,0 +1,4 @@
+# Mini-project: CountriesCount (pure Python solution, no scientific stack needed)
+jupyterlab
+ipykernel
+pytest
